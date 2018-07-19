@@ -7,7 +7,7 @@ My Reads app was build with React. It is a bookshelf app that allows user to sel
 - Want to Read
 - Read
 
-Each book has a control that lets select the shelf. Default value for the control is the current shelf the book is in. There is also an option of "search" which allows the user to choose a book  and place it at a preferred shelf.
+Each book has a control that lets select the shelf. Default value for the control is the current shelf the book is in. There is also an option of "search" which allows the user to choose a book and place it at a preferred shelf.
 
 ### How to get started:
 * clone or download the project
