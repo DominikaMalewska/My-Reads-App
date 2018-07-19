@@ -1,5 +1,5 @@
 {
-  "homepage": "https://dominikamalewska.github.io/My-Reads-App/",
+  "homepage": "https://dominikamalewska.github.io/My-Reads-App",
   "dependencies": {
     "prop-types": "^15.6.2",
     "react": "^16.3.2",
